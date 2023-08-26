@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
-<name>Tasmania Official Topographic Map</name>
+<name>Tasmania Official Aerial Mosaic</name>
 <url>https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Orthophoto/MapServer/tile/{$z}/{$x}/{$y}</url>
 </customMapSource>
