@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<customMapSource overlay="true" overzoom="true">
+<customMapSource overzoom="true">
     <name>Strava Heatmap</name>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
